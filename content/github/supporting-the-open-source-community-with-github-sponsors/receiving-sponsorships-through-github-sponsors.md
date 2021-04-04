@@ -1,4 +1,4 @@
----
+I need to receive sponsored for my dreams if some want to ask me I'll explain every thing but for now that is enough ---
 title: Receiving sponsorships through GitHub Sponsors
 shortTitle: Receiving sponsorships
 intro: 'You or your organization can become a sponsored open source contributor to receive payments for your work, update your sponsorship details, and view and contact your sponsors.'
